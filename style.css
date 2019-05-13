@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    font-size: 18px;
+    text-decoration: none;
+    /* background-image: url(guille-pozzi-484826-unsplash.jpg); */
+}
+* {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin: 25px;
+}
+h2 {
+    text-align: center;
+}
+#astronomy{
+    text-align: center;
+    padding: 20px;
+}
+#astronomy p{
+    font-size: 18px;
+    margin: 0px 200px;
+}
+li {
+    line-height: 30px;
+}
+#login{
+    text-decoration: none;
+    text-align: right;
+}
+#pages{
+    text-align: justify;
+    margin: 0px 200px;
+}
+#pages li {
+    padding: 40px 60px;
+}
+nav {
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-align: center;  
+    display: inline-bloc;
+}
+
+form {
+    padding: 100px 60px 100px 600px;
+}
+form a,input {
+    margin: 10px;
+}
+.bth {
+    text-align:center;
+    margin:10px;
+}
+footer {
+    text-align: center;
+}
